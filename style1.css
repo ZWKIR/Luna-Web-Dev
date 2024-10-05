@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: "Arial";
+  background-color: #F0FFFF;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  height: 80%;
+}
+
+h1 {
+  font-family: "Garamond";
+  color: #F0FFFF;
+  background-color: #6495ED;
+  padding: 5px 5px;
+  text-align: center;
+  border: 3px solid #2F4F4F;
+}
+
+h2 {
+  color: #2F4F4F;
+}
+
+body {
+  background-color: #F0FFFF;
+  margin: 10px;
+}
